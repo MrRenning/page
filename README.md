@@ -4,6 +4,7 @@
 ### This is a test for the site
 
 -Students will post projects here
+
 -They will also comment on the projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
